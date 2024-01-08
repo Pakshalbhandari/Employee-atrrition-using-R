@@ -9,5 +9,6 @@ Utilized machine learning algorithms (logistic regression, decision trees) for p
 Conducted in-depth exploratory data analysis (EDA) to extract meaningful insights.
 Developed a deployable model for real-time predictions and integration with HR systems.
 Enhanced organizational workforce management strategies based on predictive insights.
+
 Technologies:
 R Programming | Machine Learning | Data Analysis | Predictive Modeling | Data Visualization | Deployment
